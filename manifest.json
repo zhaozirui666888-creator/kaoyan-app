@@ -1,0 +1,12 @@
+{
+  "name": "考研作息",
+  "short_name": "考研作息",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#6c8278",
+  "lang": "zh-CN",
+  "description": "考研学习计划与作息管理工具",
+  "icons": []
+}
